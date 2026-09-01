@@ -61,7 +61,7 @@ Cuenta con una integracion al sistema de shopfloor para consultar informacion de
 Cálculo de Yield (Pass/Fail) al momento de modelos seleccionados. Genera un Top 10 de fallas más recurrentes del dia actual 
 
 <p align="center">
-  <img width="1220" height="285" alt="image" src="https://github.com/user-attachments/assets/64d1eca0-0725-43da-abd2-2a0f5242d03c" />
+<img width="1354" height="682" alt="Screenshot 2026-09-01 080913" src="https://github.com/user-attachments/assets/63dcafbd-60c4-4f91-b0df-84f5563ad89a" />
   
   <img width="1234" height="489" alt="Screenshot 2026-09-01 081217" src="https://github.com/user-attachments/assets/697e9424-c335-408c-940f-55de5bc85cd1" />
 </p>
