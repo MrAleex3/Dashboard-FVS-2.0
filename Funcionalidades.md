@@ -38,17 +38,36 @@ Cálculo de Yield (Pass/Fail) al momento de modelos seleccionados. Genera un Top
 ---
 
 ## Alertas visuales
-Cuenta con un sistema de alertas visuales al detectar una falla en un equipo y tambien una interfaz para visualizar el historial de notificaciones con informacion como: Serial, veces que a fallado, donde fallo y hora de la falla
+Cuenta con un sistema de notificaciones al detectar una falla en un equipo y tambien una interfaz para visualizar el historial de notificaciones con informacion como: Serial, veces que a fallado, donde fallo y hora de la falla
 
 <p align="center">
   <img width="296" height="92" alt="image" src="https://github.com/user-attachments/assets/937056c5-a14c-4818-aa00-d06652d48f51" />
 </p>
 <p align="center">
-  <img width="568" height="458" alt="Screenshot 2026-09-01 081127" src="https://github.com/user-attachments/assets/3fb15904-971b-4e01-89ba-3a7d5f7f1a70" />
+<img width="568" height="458" alt="image" src="https://github.com/user-attachments/assets/827afe9d-5c43-48ce-9d6b-717984033c05" />
+
 </p>
 
 ---
 
+## Terninal
+Cuenta con una pequeña interfaz tipo Terminal, donde se puede ver lo ultimo que a pasado en todos los equipos y modelos seleccionados
+
+<p align="center">
+  <img width="1246" height="221" alt="image" src="https://github.com/user-attachments/assets/da901c71-bed6-4341-b0d8-3f5d5c179ace" />
+</p>
+
+---
+
+## Contador de activaciones
+Interfaz donde se registran el numero de activaciones totales que tiene el equipo de pruebas (suma +1 automaticamente tras cada prueba) y lo registra basado en el ID del equipo (cuenta con un boton para ajustar las activaciones en caso de no coincidir)
+
+<p align="center">
+  <img width="828" height="576" alt="Screenshot 2026-09-01 081014" src="https://github.com/user-attachments/assets/3daa8330-5ccb-4f37-b458-3367ab8008ee" />
+
+</p>
+
+---
 <p align="center">
   <a href="README.md">⬅ Volver al README principal</a>
 </p>
