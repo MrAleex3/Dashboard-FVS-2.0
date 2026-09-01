@@ -27,16 +27,26 @@
 
 ## Quick Start
 
-> Asegúrate de estar en un entorno Windows 10 o superior y contar con acceso a las rutas de red compartidas de las estaciones.
+FVS Monitor funciona leyendo los logs directamente desde las carpetas de red donde las estaciones de pruebas suben sus archivos, solo necesitas darle acceso a esas rutas y levantar la app.
 
-Configura las rutas de red a monitorear y ejecuta el servidor compilado:
+**1. Mapear las rutas de red**  
+El equipo donde correra el sistema debe tener conexión y permisos de lectura hacia las unidades de red o servidores de las estaciones de prueba.
 
-```bash
-# 1. Define las carpetas en tu archivo de configuración
-# Editar rutas.ini
+**2. Configurar las rutas**  
+Abre el archivo `rutas.ini` y define las direcciones a monitorear. Puedes agregar tantas rutas como necesites, apagarlas o encenderlas usando el parametro `Enabled`.
 
-# 2. Ejecuta el servidor y worker
-./server.exe
+```ini
+[General]
+Description = Lista de rutas FVS Monitor
+
+[Route_1]
+Path = \\RutaDeServidor\EquipoPruebas
+Enabled = True
+
+[Route_2]
+Path = \\RutaDeServidor\EquipoPruebas
+Enabled = True
+
 ```
 
 ## Features
