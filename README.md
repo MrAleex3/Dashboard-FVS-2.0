@@ -19,9 +19,23 @@
 </p>
 
 <p align="center">
-  <img width="1354" height="682" alt="Screenshot 2026-09-01 080913" src="https://github.com/user-attachments/assets/57ccf23d-263d-4ad7-a4d9-5b4726499c0c" />
+<img width="1345" height="633" alt="Screenshot 2026-09-01 080953" src="https://github.com/user-attachments/assets/3b4a66bb-d6b2-4f5c-9dc9-04734918455d" />
 
 </p>
+
+---
+
+## El Origen de Mi Proyecto
+
+FVS Monitor nació como la idea de remplazar un antiguo monitor que teniamos hecho en Visual Basic (de origen chino) funcionada, pero se sentia algo obsoleto, con opciones súper limitadas y ninguna capacidad de personalización. 
+
+Al principio, mi intención era simplemente modificar esa aplicación original para darle un refresh y hacer una traduccion bien (porque tenia caracteres chinos ahaha), pero al encontrarme con tantos bloqueos y problemas para manipularla, decidí mejor crear algo nuevo. Creé una primera versión de escritorio en Python que copiaba exactamente la misma funcionalidad. pero para evitar los problemas de cyberseguridad de tener que distribuir e instalar un `.exe` máquina por máquina dentro de un entorno empresarial, decidí dar un paso más y migrar el proyecto a una aplicación web para que cualquier persona pudiera utilizarla en cualquier lugar usando la intranet con solo entrar a una URL.
+
+Lo que empezó como intentar actualizar una aplicacion se fue convirtiendo en nuestro HUB central para todos los técnicos e ingenieros, sustituyendo por completo a la antigua aplicación china. 
+
+FVS Monitor a seguido evolucionando: se agregaron integraciones con otras aplicaciones web existentes (como Shopfloor, Testpoint y Toolpoint) y se volvió más inteligente, llevando el control de activaciones de los equipos, enviando notificaciones a los usuarios para realizar sus mantenimientos, ayudando a llenar los diversos checklist diarios en linea con la informacion recopilada en FVS MONITOR etc. Al final, el objetivo de mi herramienta es optimizar y facilitarnos "la vida" en el trabajo, evitando tener que navegar entre un montón de carpetas, servidores o páginas web distintas, y concentrando todo lo que necesitamos saber en una sola pantalla, al alcance de un click.
+
+FVS MONITOR comenzo a construirse el 24 de octubre de 2025. Constantemente recibe actualizaciones y es nuestra herramienta del dia a dia junto a sus apps hermanas `SerialInsight` y `LogFinder`.
 
 ---
 
