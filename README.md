@@ -2,6 +2,11 @@
 
 Actualización de la herramienta de monitoreo en tiempo real para estaciones de prueba industriales. Procesa los logs de forma concurrente y genera estadísticas de calidad en una interfaz web.
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Flask](https://img.shields.io/badge/Framework-Flask-green)
+![Server](https://img.shields.io/badge/Server-Waitress-red)
+![Status](https://img.shields.io/badge/Status-Production-success)
+
 - [Interfaz y funcionalidades](Funcionalidades.md)
 - [Versión anterior (FVS Monitor)](https://github.com/MrAleex3/Dashboard-FVS)
 
