@@ -110,5 +110,5 @@ Cuenta con una integracion a otro sistema de control para realizar mantenimiento
 
 ---
 <p align="center">
-  <a href="README.md">⬅ Volver al README principal</a>
+  <a href="README.md">Volver al README principal</a>
 </p>
