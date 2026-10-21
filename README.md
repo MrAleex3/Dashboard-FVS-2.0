@@ -34,6 +34,8 @@ El equipo donde correrá el sistema debe tener conexión y permisos de lectura h
 
 En el archivo `rutas.ini` se definen las direcciones a monitorear. Se pueden agregar tantas rutas como se necesiten y activarlas o desactivarlas con el parámetro `Enabled`.
 
+La aplicación se abre en el puerto 10000.
+
 ```ini
 [General]
 Description = Lista de rutas FVS Monitor
